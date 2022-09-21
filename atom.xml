@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liyujiayuan.github.io</id>
+    <title>我的家园</title>
+    <updated>2022-09-21T11:41:49.810Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liyujiayuan.github.io"/>
+    <link rel="self" href="https://liyujiayuan.github.io/atom.xml"/>
+    <subtitle>收藏爱好</subtitle>
+    <logo>https://liyujiayuan.github.io/images/avatar.png</logo>
+    <icon>https://liyujiayuan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 我的家园</rights>
+    <entry>
+        <title type="html"><![CDATA[大师傅]]></title>
+        <id>https://liyujiayuan.github.io/post/0LlIOmi6N/</id>
+        <link href="https://liyujiayuan.github.io/post/0LlIOmi6N/">
+        </link>
+        <updated>2022-09-21T11:39:46.000Z</updated>
+        <content type="html"><![CDATA[<p>回复<br>
+十大饿企鹅大示威而打算放弃1</p>
+]]></content>
+    </entry>
+</feed>
